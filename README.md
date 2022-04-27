@@ -7,12 +7,9 @@ controlados por la ERM (Ente Regulador de Mechas) la presencia de los Evitas ha 
 unos devastadores seres alienígenas conocidos localmente como Ángeles. Todo comenzó cuando el grupo
 
 Gohuer encontró en la Antártida un "Gigante blanco" yaciendo paralizado en un cráter de tamaño incon-
-mensurable. Luego de investigaciones entendieron que ese ser almacenaba una energía capaz de destruir el
-
+mensurable. Luego de investigaciones entendieron que ese ser almacenaba una energía capaz de destruir el 
 planeta en segundos. Sin embargo, el grupo fue un paso más allá y logro despertar al Gigante controlán-
-dolo de tal manera para que se reprodujera con el proceso de fisión binaria (similar a lo que ocurre con las
-
-amebas). Del "Gigante Blanco", denominado Lilith, se originaron m Evitas. Pero en Gohuer jugaron a ser
+dolo de tal manera para que se reprodujera con el proceso de fisión binaria (similar a lo que ocurre con las amebas). Del "Gigante Blanco", denominado Lilith, se originaron m Evitas. Pero en Gohuer jugaron a ser
 Dios, y decidieron ir un paso más allá. Los primeros Evitas se salieron de control y lograron absorber parte
 del "núcleo" de su padre lo que les dio la capacidad, no deseada, de reproducirse, como su progenitor, un
 máximo de m veces (podrían ser menos).
