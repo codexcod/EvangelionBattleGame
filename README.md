@@ -1,4 +1,4 @@
-# :boom: EvangelionBattleGame Simulation :boom:
+# :boom: Evangelion Battle Game Simulation :boom:
 
 
 Corre el año 2050 y la humanidad se encuentra en peligro. El grupo Gohuer ubicado en Argentina ha estado
