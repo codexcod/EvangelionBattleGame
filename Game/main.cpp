@@ -65,6 +65,8 @@ int main(int argc, char* argv[])
         prob_berserk = 0; // Los angeles no pueden ser berserk
         reprod_tries = reprod_angels; 
         newborns = angels;
+        
+
     }
     else // Si es Terminal
     {
@@ -76,16 +78,21 @@ int main(int argc, char* argv[])
             prob_berserk = probs[2];
             reprod_tries = reprod_evitas;
             newborns = evitas;
+            
+
         }
         else
         {
+            cout << "Lilith Pid: " << lilithPid << " Day: 0 " <<  endl;
             // Espera a Adam, Lilith y sus respectivos pibes
             wait(NULL);
             wait(NULL);
             printResults(power_margin, max_days, evitas, angels);
             exit(0);
         }
+        cout << "Adam Pid: " << adamPid << " Day: 0 " <<  endl;
     }
+    
  	
  	// Corremos las simulaciones de nacimiento
 	for(int day = 1; day < max_days; day++)
@@ -103,10 +110,7 @@ int main(int argc, char* argv[])
         newborns[day] =  newborns[day] + 1;
         newborns[day + max_days] = newborns[day + max_days] + power;
 
-        cout << "Child Pid: " << pid << endl;
-        cout << "Child Ppid: " << ppid << endl;
-        cout << "Child Type: " << type << endl; 
-        cout << "Child Power: " << power << endl;   
+        cout << "Child Pid: " << pid << " Child Ppid: " << ppid << " Child Type: " << type << " Child Power: " << power  << " Day: " << day <<  endl;
 
         if (is_berserker) // Si es berserker, no tiene hijos
         {
